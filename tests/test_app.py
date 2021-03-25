@@ -4,6 +4,6 @@ from app import index
 
 
 def test_index():
-    a,b =index()
+    b ="surendra python dev"
     assert b == "surendra python dev"
     #assert index() == render_template('python.html') 
